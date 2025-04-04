@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\helloworld\\helloworld\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\helloworld\\helloworld\\helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\helloworld\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10392ED1-9F44-4B58-929E-F0BF7A18AE14}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +36,48 @@
               "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\Program.cs",
               "RelativeToolTip": "HelloWorld\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:46:47.044Z",
+              "WhenOpened": "2025-04-04T07:43:35.06Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloWorld",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T07:37:59.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T07:33:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\Class1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Class1.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\HelloWorld\\HelloWorld\\Class1.cs",
+              "RelativeToolTip": "HelloWorld\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:20:42.905Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,7 +1,14 @@
-﻿class Program
+﻿using HelloWorld;
+using System;
+namespace HelloWorld
 {
-    static void Main(string[] args)
+    public class Program
     {
-        Console.WriteLine("Hello Rakshith Welcome to Datalyzer");
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Rakshith Welcome to Datalyzer");
+            Class1.ItemCreation();
+
+        }
     }
 }
