@@ -17,6 +17,7 @@ namespace SeconProject
             string a= Console.ReadLine();
             int a1= int.Parse(a);
             Console.WriteLine(a);
+            Console.ReadKey();
 
         }
     }

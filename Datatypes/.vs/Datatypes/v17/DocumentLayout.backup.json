@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B43160E8-D035-4491-A075-FE1103E0D616}|Datatypes\\Datatypes.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43160E8-D035-4491-A075-FE1103E0D616}|Datatypes\\Datatypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datatypes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Integeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datatypes\\Integeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Integeral.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Integeral.cs",
+              "RelativeDocumentMoniker": "Datatypes\\Integeral.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Integeral.cs",
+              "RelativeToolTip": "Datatypes\\Integeral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:37:46.697Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Program.cs",
               "RelativeDocumentMoniker": "Datatypes\\Program.cs",
-              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Program.cs*",
-              "RelativeToolTip": "Datatypes\\Program.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Datatypes\\Datatypes\\Program.cs",
+              "RelativeToolTip": "Datatypes\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T09:26:06.897Z",
               "EditorCaption": ""
