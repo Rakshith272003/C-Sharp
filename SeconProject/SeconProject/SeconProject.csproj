@@ -4,7 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <StartupObject>SeconProject.Program</StartupObject>
-     <StartupObject>SeconProject.Class1</StartupObject>
+    <StartupObject>SeconProject.Class1</StartupObject>
+    <StartupObject>SeconProject.Class2</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
