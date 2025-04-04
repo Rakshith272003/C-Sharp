@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\bin\Debug\net8.0\SeconProject.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\bin\Debug\net8.0\SeconProject.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\bin\Debug\net8.0\SeconProject.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\bin\Debug\net8.0\SeconProject.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\bin\Debug\net8.0\SeconProject.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\refint\SeconProject.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\SeconProject.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\SeconProject\SeconProject\obj\Debug\net8.0\ref\SeconProject.dll
