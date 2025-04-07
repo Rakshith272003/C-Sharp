@@ -1,0 +1,14 @@
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\bin\Debug\net9.0\typechecking.exe
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\bin\Debug\net9.0\typechecking.deps.json
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\bin\Debug\net9.0\typechecking.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\bin\Debug\net9.0\typechecking.dll
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\bin\Debug\net9.0\typechecking.pdb
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.dll
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\refint\typechecking.dll
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.pdb
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\typechecking.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C#checking\typechecking\obj\Debug\net9.0\ref\typechecking.dll
