@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\bin\Debug\net8.0\AccessSpecifiersDemo.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\bin\Debug\net8.0\AccessSpecifiersDemo.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\bin\Debug\net8.0\AccessSpecifiersDemo.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\bin\Debug\net8.0\AccessSpecifiersDemo.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\bin\Debug\net8.0\AccessSpecifiersDemo.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\refint\AccessSpecifiersDemo.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\AccessSpecifiersDemo.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\AccessSpecifiersDemo\AccessSpecifiersDemo\obj\Debug\net8.0\ref\AccessSpecifiersDemo.dll

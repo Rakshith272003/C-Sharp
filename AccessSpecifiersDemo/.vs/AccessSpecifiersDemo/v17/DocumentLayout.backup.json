@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4ABFC8-A191-444D-8EBA-E9FB42CB5FDC}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\accessspecifiersdemo\\accessspecifiersdemo\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4ABFC8-A191-444D-8EBA-E9FB42CB5FDC}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|solutionrelative:accessspecifiersdemo\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4ABFC8-A191-444D-8EBA-E9FB42CB5FDC}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\accessspecifiersdemo\\accessspecifiersdemo\\libraryproject\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4ABFC8-A191-444D-8EBA-E9FB42CB5FDC}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|solutionrelative:accessspecifiersdemo\\libraryproject\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4ABFC8-A191-444D-8EBA-E9FB42CB5FDC}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\accessspecifiersdemo\\accessspecifiersdemo\\accessspecifiersdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C4ABFC8-A191-444D-8EBA-E9FB42CB5FDC}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|solutionrelative:accessspecifiersdemo\\accessspecifiersdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessModifier.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\AccessSpecifiersDemo\\LibraryProject\\AccessModifier.cs",
+              "RelativeDocumentMoniker": "AccessSpecifiersDemo\\LibraryProject\\AccessModifier.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\AccessSpecifiersDemo\\LibraryProject\\AccessModifier.cs*",
+              "RelativeToolTip": "AccessSpecifiersDemo\\LibraryProject\\AccessModifier.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:40:41.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessSpecifiersDemo",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj",
+              "RelativeDocumentMoniker": "AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj*",
+              "RelativeToolTip": "AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T09:39:34.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\AccessSpecifiersDemo\\MainProject\\Program.cs",
+              "RelativeDocumentMoniker": "AccessSpecifiersDemo\\MainProject\\Program.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AccessSpecifiersDemo\\AccessSpecifiersDemo\\MainProject\\Program.cs",
+              "RelativeToolTip": "AccessSpecifiersDemo\\MainProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:37:42.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
