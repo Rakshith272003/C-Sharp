@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\C#checking",
-    "\\CalculatorApp\\CalculatorApp"
+    "\\CalculatorApp",
+    "\\CalculatorApp\\CalculatorApp",
+    "\\CalculatorApp\\CalculatorApp\\Modules",
+    "\\CalculatorApp\\CalculatorApp\\Services",
+    "\\Constructors"
   ],
+  "SelectedNode": "\\CalculatorApp\\CalculatorApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

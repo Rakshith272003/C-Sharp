@@ -13,11 +13,11 @@ namespace CalculatorApp.Services
 
                     switch (choice)
                     {
-                        case 1: BinaryOperationsService.HandleOperation(1); break;
-                        case 2: BinaryOperationsService.HandleOperation(2); break;
-                        case 3: BinaryOperationsService.HandleOperation(3); break;
-                        case 4: BinaryOperationsService.HandleOperation(4); break;
-                        case 5: BinaryOperationsService.HandleOperation(5); break;
+                        case 1: BinaryOperationsService.HandleOperation(choice); break;
+                        case 2: BinaryOperationsService.HandleOperation(choice); break;
+                        case 3: BinaryOperationsService.HandleOperation(choice); break;
+                        case 4: BinaryOperationsService.HandleOperation(choice); break;
+                        case 5: BinaryOperationsService.HandleOperation(choice); break;
                         case 6: InterestService.CalculateSimpleInterest(); break;
                         case 7: InterestService.CalculateCompoundInterest(); break;
                         case 8:
