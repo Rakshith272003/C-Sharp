@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\COnstructors",
-    "\\Datatypes",
+    "\\C#checking\\typechecking",
     "\\Datatypes\\Datatypes",
-    "\\HelloWorld",
-    "\\SeconProject",
     "\\SeconProject\\SeconProject"
   ],
-  "SelectedNode": "\\Datatypes\\Datatypes\\Datatypes.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -23,9 +23,17 @@ namespace Constructors
 
         public void Display()
         {
-            Console.WriteLine("StudentCopy:");
-            Console.WriteLine("Name: " + name);
-            Console.WriteLine("Age: " + age);
+            try
+            {
+                Console.WriteLine("StudentCopy:");
+                Console.WriteLine("Name: " + name);
+                Console.WriteLine("Age: " + age);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         
