@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\bin\Debug\net8.0\MyVariableExamples.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\bin\Debug\net8.0\MyVariableExamples.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\bin\Debug\net8.0\MyVariableExamples.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\bin\Debug\net8.0\MyVariableExamples.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\bin\Debug\net8.0\MyVariableExamples.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\refint\MyVariableExamples.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\MyVariableExamples.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\MyVariableExamples\MyVariableExamples\obj\Debug\net8.0\ref\MyVariableExamples.dll

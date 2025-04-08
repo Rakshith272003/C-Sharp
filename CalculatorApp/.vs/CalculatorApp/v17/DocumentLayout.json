@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\services\\binaryoperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\services\\binaryoperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\modules\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\modules\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\CalculatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Services\\CalculatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\BinaryOperationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Services\\BinaryOperationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\services\\intersetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\services\\intersetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Modules\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Modules\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\IntersetService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Services\\IntersetService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\MenuService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Services\\MenuService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\calculatorapp\\calculatorapp\\modules\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3945A220-3649-4A0E-A23D-E15F224DC10A}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\modules\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Modules\\Interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculatorApp\\Modules\\Interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +38,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CalculatorService.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\CalculatorService.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Services\\CalculatorService.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\CalculatorService.cs",
               "RelativeToolTip": "CalculatorApp\\Services\\CalculatorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:35:17.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:35:17.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BinaryOperationService.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\BinaryOperationService.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Services\\BinaryOperationService.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\BinaryOperationService.cs",
               "RelativeToolTip": "CalculatorApp\\Services\\BinaryOperationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:35:37.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:35:37.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Modules\\Calculator.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Modules\\Calculator.cs",
@@ -76,25 +74,23 @@
               "RelativeToolTip": "CalculatorApp\\Modules\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:34:41.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:34:41.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IntersetService.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\IntersetService.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Services\\IntersetService.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\IntersetService.cs",
               "RelativeToolTip": "CalculatorApp\\Services\\IntersetService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:35:54.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:35:54.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MenuService.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Services\\MenuService.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Services\\MenuService.cs",
@@ -102,12 +98,11 @@
               "RelativeToolTip": "CalculatorApp\\Services\\MenuService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:36:14.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:36:14.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "CalculatorApp\\Modules\\Interest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:34:55.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:34:55.461Z"
             }
           ]
         }
