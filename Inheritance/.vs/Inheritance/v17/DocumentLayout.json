@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\multilevelinheritance\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\multilevelinheritance\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\multilevelinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\multilevelinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\multilevelinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\multilevelinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\singleinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\singleinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\singleinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\singleinheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\inheritance\\inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B1A822-DD69-41A1-894D-6C25E11F3B45}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraduateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\MultiLevelInheritance\\GraduateStudent.cs",
+              "RelativeDocumentMoniker": "Inheritance\\MultiLevelInheritance\\GraduateStudent.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\MultiLevelInheritance\\GraduateStudent.cs",
+              "RelativeToolTip": "Inheritance\\MultiLevelInheritance\\GraduateStudent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:31:16.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\MultiLevelInheritance\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritance\\MultiLevelInheritance\\Person.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\MultiLevelInheritance\\Person.cs",
+              "RelativeToolTip": "Inheritance\\MultiLevelInheritance\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:21:10.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\MultiLevelInheritance\\Student.cs",
+              "RelativeDocumentMoniker": "Inheritance\\MultiLevelInheritance\\Student.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\MultiLevelInheritance\\Student.cs",
+              "RelativeToolTip": "Inheritance\\MultiLevelInheritance\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:20:10.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\SingleInheritance\\Student.cs",
+              "RelativeDocumentMoniker": "Inheritance\\SingleInheritance\\Student.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\SingleInheritance\\Student.cs",
+              "RelativeToolTip": "Inheritance\\SingleInheritance\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:55:32.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\SingleInheritance\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritance\\SingleInheritance\\Person.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\SingleInheritance\\Person.cs",
+              "RelativeToolTip": "Inheritance\\SingleInheritance\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:53:39.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inheritance",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\Inheritance.csproj",
+              "RelativeDocumentMoniker": "Inheritance\\Inheritance.csproj",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\Inheritance.csproj",
+              "RelativeToolTip": "Inheritance\\Inheritance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T06:52:32.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\Animal.cs",
+              "RelativeToolTip": "Inheritance\\Animal.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:36:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:35:14.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
