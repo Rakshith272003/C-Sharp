@@ -13,7 +13,9 @@ namespace Inheritance
             SingleInheritance.Person.Run();
             Console.WriteLine("MultiLevel Inheritance");
             MultilevelInheritance.Person.Run();
-           
+            Console.WriteLine("MultiLevel Inheritance");
+            HierarchicalInheritance.Person.Run();   
+
         }
         
 

@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C#checking",
-    "\\CalculatorApp",
     "\\CalculatorApp\\CalculatorApp",
     "\\CalculatorApp\\CalculatorApp\\Modules",
     "\\CalculatorApp\\CalculatorApp\\Services",
-    "\\Constructors"
+    "\\Inheritance\\Inheritance",
+    "\\Inheritance\\Inheritance\\HierarchicalInheritance"
   ],
-  "SelectedNode": "\\CalculatorApp\\CalculatorApp\\Program.cs",
+  "SelectedNode": "\\Inheritance",
   "PreviewInSolutionExplorer": false
 }
