@@ -2,8 +2,10 @@
 
 // Abstract class
 abstract class Payment
-{
+
+{   
     public abstract void Pay(double amount); // Abstract method
+    
 }
 
 // Card Payment
@@ -46,7 +48,7 @@ class Program
         Payment p3 = new UPI();
         p3.Pay(250);
 
-        //Payment p4 = new Payment();//THIS IS NOT ALLOWED IT IS NOT DERIVED CLASS
-
+        //payment p4 = new payment();//this is not allowed it is not derived class
+        //p4.pay(500);
     }
 }

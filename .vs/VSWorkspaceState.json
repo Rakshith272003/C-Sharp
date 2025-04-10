@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Abstract",
     "\\CalculatorApp",
     "\\CalculatorApp\\CalculatorApp",
     "\\CalculatorApp\\CalculatorApp\\Modules",
-    "\\CalculatorApp\\CalculatorApp\\Services"
+    "\\CalculatorApp\\CalculatorApp\\Services",
+    "\\Datatypes"
   ],
-  "SelectedNode": "\\AccessSpecifiersDemo",
+  "SelectedNode": "\\CalculatorApp\\CalculatorApp\\Services\\IntersetService.cs",
   "PreviewInSolutionExplorer": false
 }
