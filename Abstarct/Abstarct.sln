@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstarct", "Abstarct\Abstarct.csproj", "{BB07D955-21BA-4C90-B680-8D90B7FA57E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB07D955-21BA-4C90-B680-8D90B7FA57E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB07D955-21BA-4C90-B680-8D90B7FA57E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB07D955-21BA-4C90-B680-8D90B7FA57E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB07D955-21BA-4C90-B680-8D90B7FA57E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1A5F9C-11F3-4D2F-A4C7-5B143DC00C4D}
+	EndGlobalSection
+EndGlobal

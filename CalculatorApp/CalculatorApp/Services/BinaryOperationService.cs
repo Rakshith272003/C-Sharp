@@ -11,7 +11,7 @@ namespace CalculatorApp.Services
             Console.Write("Enter first number: ");
             double a = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter second number: ");
+            Console.Write("Enter second numbers: ");
             double b = double.Parse(Console.ReadLine());
 
             double result = operationType switch

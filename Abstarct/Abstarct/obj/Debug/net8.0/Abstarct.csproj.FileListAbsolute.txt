@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\bin\Debug\net8.0\Abstarct.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\bin\Debug\net8.0\Abstarct.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\bin\Debug\net8.0\Abstarct.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\bin\Debug\net8.0\Abstarct.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\bin\Debug\net8.0\Abstarct.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\refint\Abstarct.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\Abstarct.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Abstarct\Abstarct\obj\Debug\net8.0\ref\Abstarct.dll
