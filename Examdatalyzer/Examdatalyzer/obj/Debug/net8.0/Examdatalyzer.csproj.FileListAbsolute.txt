@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\bin\Debug\net8.0\Examdatalyzer.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\bin\Debug\net8.0\Examdatalyzer.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\bin\Debug\net8.0\Examdatalyzer.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\bin\Debug\net8.0\Examdatalyzer.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\bin\Debug\net8.0\Examdatalyzer.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\refint\Examdatalyzer.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\Examdatalyzer.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Examdatalyzer\Examdatalyzer\obj\Debug\net8.0\ref\Examdatalyzer.dll

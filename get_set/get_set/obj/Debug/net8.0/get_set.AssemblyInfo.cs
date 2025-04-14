@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("get_set")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59dbd36eba644b853a7f7ae24850cc8ae9303d1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cef6bfa2fec890f2f7c827dd6e91cb888fd8cbc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("get_set")]
 [assembly: System.Reflection.AssemblyTitleAttribute("get_set")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,7 +10,7 @@
 
         public void display()
         {
-            Console.WriteLine($"ID:{id}");
+            Console.WriteLine($"ID:{id}"); 
             Console.WriteLine($"NAME:{name}");
             Console.WriteLine($"AGE:{age}");
             Console.WriteLine($"COURSE:{course}");

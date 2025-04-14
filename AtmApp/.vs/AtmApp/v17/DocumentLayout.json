@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\atmapp\\atmapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|solutionrelative:atmapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\atmapp\\atmapp\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|solutionrelative:atmapp\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\atmapp\\atmapp\\atmoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|solutionrelative:atmapp\\atmoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\atmapp\\atmapp\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDE69F9-BDC5-4533-8B02-E01A7EAC644A}|AtmApp\\AtmApp.csproj|solutionrelative:atmapp\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtmOperations.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\AtmOperations.cs",
+              "RelativeDocumentMoniker": "AtmApp\\AtmOperations.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\AtmOperations.cs",
+              "RelativeToolTip": "AtmApp\\AtmOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:07:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\AtmMenu.cs",
+              "RelativeDocumentMoniker": "AtmApp\\AtmMenu.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\AtmMenu.cs",
+              "RelativeToolTip": "AtmApp\\AtmMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:06:09.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\ATM.cs",
+              "RelativeDocumentMoniker": "AtmApp\\ATM.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\ATM.cs",
+              "RelativeToolTip": "AtmApp\\ATM.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:55:25.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\Program.cs",
+              "RelativeDocumentMoniker": "AtmApp\\Program.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\AtmApp\\AtmApp\\Program.cs",
+              "RelativeToolTip": "AtmApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:53:12.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

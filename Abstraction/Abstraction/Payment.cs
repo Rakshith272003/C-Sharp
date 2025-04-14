@@ -28,7 +28,7 @@ namespace Abstraction
             Console.Write("Enter your choice (1/2/3): ");
             string choice = Console.ReadLine();
 
-            Payment payment = null;
+            Payment payment ;
 
             switch (choice)
             {

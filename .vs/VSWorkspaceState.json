@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
-    "",
     "\\CalculatorApp",
     "\\CalculatorApp\\CalculatorApp",
-    "\\CalculatorApp\\CalculatorApp\\Modules",
     "\\CalculatorApp\\CalculatorApp\\Services",
-    "\\Datatypes"
+    "\\Examdatalyzer",
+    "\\Examdatalyzer\\Examdatalyzer"
   ],
-  "SelectedNode": "\\CalculatorApp\\CalculatorApp\\Services\\IntersetService.cs",
   "PreviewInSolutionExplorer": false
 }
