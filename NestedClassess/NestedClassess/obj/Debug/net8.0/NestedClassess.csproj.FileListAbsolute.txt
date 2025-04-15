@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\bin\Debug\net8.0\NestedClassess.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\bin\Debug\net8.0\NestedClassess.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\bin\Debug\net8.0\NestedClassess.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\bin\Debug\net8.0\NestedClassess.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\bin\Debug\net8.0\NestedClassess.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\refint\NestedClassess.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\NestedClassess.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\NestedClassess\NestedClassess\obj\Debug\net8.0\ref\NestedClassess.dll

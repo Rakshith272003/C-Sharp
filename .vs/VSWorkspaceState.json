@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "\\CalculatorApp",
-    "\\CalculatorApp\\CalculatorApp",
-    "\\CalculatorApp\\CalculatorApp\\Services",
-    "\\Examdatalyzer",
-    "\\Examdatalyzer\\Examdatalyzer"
+    "\\Examdatalyzer"
   ],
   "PreviewInSolutionExplorer": false
 }

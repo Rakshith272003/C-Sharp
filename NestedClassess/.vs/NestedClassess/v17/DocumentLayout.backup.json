@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\nestedclassess\\nestedclassess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|solutionrelative:nestedclassess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\nestedclassess\\nestedclassess\\basic2\\outerclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|solutionrelative:nestedclassess\\basic2\\outerclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\nestedclassess\\nestedclassess\\basic1\\outerclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|solutionrelative:nestedclassess\\basic1\\outerclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\nestedclassess\\nestedclassess\\nestedclassess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|solutionrelative:nestedclassess\\nestedclassess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\nestedclassess\\nestedclassess\\basic\\outerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA298858-A7E2-48C7-9122-D496A4164E7F}|NestedClassess\\NestedClassess.csproj|solutionrelative:nestedclassess\\basic\\outerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OuterClass2.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\BASIC2\\OuterClass2.cs",
+              "RelativeDocumentMoniker": "NestedClassess\\BASIC2\\OuterClass2.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\BASIC2\\OuterClass2.cs",
+              "RelativeToolTip": "NestedClassess\\BASIC2\\OuterClass2.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv3UAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:47:49.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OuterClass1.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\BASIC1\\OuterClass1.cs",
+              "RelativeDocumentMoniker": "NestedClassess\\BASIC1\\OuterClass1.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\BASIC1\\OuterClass1.cs",
+              "RelativeToolTip": "NestedClassess\\BASIC1\\OuterClass1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:05:45.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OuterClass.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\BASIC\\OuterClass.cs",
+              "RelativeDocumentMoniker": "NestedClassess\\BASIC\\OuterClass.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\BASIC\\OuterClass.cs",
+              "RelativeToolTip": "NestedClassess\\BASIC\\OuterClass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:57:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NestedClassess",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\NestedClassess.csproj",
+              "RelativeDocumentMoniker": "NestedClassess\\NestedClassess.csproj",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\NestedClassess.csproj",
+              "RelativeToolTip": "NestedClassess\\NestedClassess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T05:53:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\Program.cs",
+              "RelativeDocumentMoniker": "NestedClassess\\Program.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\NestedClassess\\NestedClassess\\Program.cs",
+              "RelativeToolTip": "NestedClassess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:53:02.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
