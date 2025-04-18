@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\studentmanagementsystem\\studentmanagementsystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\studentmanagementsystem\\studentmanagementsystem\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Menu.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Menu.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Menu.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Menu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:36:03.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Classroom.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Classroom.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Classroom.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Classroom.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:35:06.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:34:19.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
