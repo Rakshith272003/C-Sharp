@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\studentmanagementsystem\\studentmanagementsystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagementSystem\\Classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\studentmanagementsystem\\studentmanagementsystem\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A893235A-AC07-4C9E-BF1E-7463A4204BCE}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagementSystem\\StudentManagementSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagementSystem\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "StudentManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\StudentManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "RelativeToolTip": "StudentManagementSystem\\StudentManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T09:48:29.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Menu.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Menu.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Menu.cs",
               "RelativeToolTip": "StudentManagementSystem\\Menu.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T06:36:03.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T06:36:03.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Classroom.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Classroom.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Classroom.cs",
               "RelativeToolTip": "StudentManagementSystem\\Classroom.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwDIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:35:06.136Z",
               "EditorCaption": ""
@@ -58,7 +74,7 @@
               "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
               "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
               "RelativeToolTip": "StudentManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:34:19.792Z",
               "EditorCaption": ""

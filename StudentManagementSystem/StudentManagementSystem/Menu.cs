@@ -31,6 +31,7 @@ namespace StudentManagementSystem
 
                 int choice = int.Parse(Console.ReadLine());
 
+#if true
                 switch (choice)
                 {
                     case 1: Classroom.AddStudent(); break;
@@ -40,13 +41,15 @@ namespace StudentManagementSystem
                     case 5: Classroom.SearchStudent(); break;
                     case 6: Classroom.RemoveStudent(); break;
                     case 7: Classroom.SortAlphabetically(); break;
-                    case 8: Console.WriteLine("exit!!!!");
+                    case 8:
+                        Console.WriteLine("exit!!!!");
                         Console.ReadKey();
-                        exit = true; 
+                        exit = true;
                         break;
                     default: Console.WriteLine("Ener valid choice"); break;
 
-                        
+#endif
+
                 }
 
             }
