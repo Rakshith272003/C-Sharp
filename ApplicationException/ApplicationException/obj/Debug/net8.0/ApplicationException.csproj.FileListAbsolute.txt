@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\bin\Debug\net8.0\ApplicationException.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\bin\Debug\net8.0\ApplicationException.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\bin\Debug\net8.0\ApplicationException.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\bin\Debug\net8.0\ApplicationException.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\bin\Debug\net8.0\ApplicationException.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\refint\ApplicationException.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ApplicationException.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\ApplicationException\ApplicationException\obj\Debug\net8.0\ref\ApplicationException.dll

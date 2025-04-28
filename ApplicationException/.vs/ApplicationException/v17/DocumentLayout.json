@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\ApplicationException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14028E95-FE31-4963-8220-CDEE9CB9E4CB}|ApplicationException\\ApplicationException.csproj|c:\\users\\raksh\\onedrive\\desktop\\c-sharp\\applicationexception\\applicationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14028E95-FE31-4963-8220-CDEE9CB9E4CB}|ApplicationException\\ApplicationException.csproj|solutionrelative:applicationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\ApplicationException\\ApplicationException\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationException\\Program.cs",
+              "ToolTip": "C:\\Users\\raksh\\OneDrive\\Desktop\\C-Sharp\\ApplicationException\\ApplicationException\\Program.cs",
+              "RelativeToolTip": "ApplicationException\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:49:51.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

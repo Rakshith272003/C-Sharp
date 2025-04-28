@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\bin\Debug\net8.0\TripExpenseSplitter.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\bin\Debug\net8.0\TripExpenseSplitter.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\bin\Debug\net8.0\TripExpenseSplitter.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\bin\Debug\net8.0\TripExpenseSplitter.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\bin\Debug\net8.0\TripExpenseSplitter.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\refint\TripExpenseSplitter.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\TripExpenseSplitter.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\TripExpenseSplitter\TripExpenseSplitter\obj\Debug\net8.0\ref\TripExpenseSplitter.dll

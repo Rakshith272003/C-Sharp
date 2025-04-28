@@ -1,0 +1,15 @@
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\bin\Debug\net8.0\Enumerations.exe
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\bin\Debug\net8.0\Enumerations.deps.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\bin\Debug\net8.0\Enumerations.runtimeconfig.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\bin\Debug\net8.0\Enumerations.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\bin\Debug\net8.0\Enumerations.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.AssemblyInfo.cs
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.sourcelink.json
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\refint\Enumerations.dll
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.pdb
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\Enumerations.genruntimeconfig.cache
+C:\Users\raksh\OneDrive\Desktop\C-Sharp\Enumerations\Enumerations\obj\Debug\net8.0\ref\Enumerations.dll
